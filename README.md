@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕵️‍♂️ Como Não Pegar um Criminoso Online
+# 🕵️‍♂️ Como Pegar um Criminoso Online
 
 ### Projeto Integrador – Perícia Computacional
   

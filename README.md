@@ -3,9 +3,12 @@
 # 🕵️‍♂️ Como Não Pegar um Criminoso Online
 
 ### Projeto Integrador – Perícia Computacional
-
+  
 **Equipe WorkerTI**
 
+<img width="784" height="1168" alt="image" src="https://github.com/user-attachments/assets/2a638c9a-927f-4d0c-ae68-31f6b34808fb" />
+
+  
 *"Be Productive!"*
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)

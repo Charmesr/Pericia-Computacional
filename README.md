@@ -10,7 +10,7 @@
 
 
   
-*"Be Productive!"*
+*"Bee Productive!"*
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Área](https://img.shields.io/badge/área-perícia%20computacional-blue)

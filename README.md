@@ -197,8 +197,8 @@ Recebimento da evidência → Registro da custódia → Aquisição forense → 
 | Integrante | Função | Atribuição |
 |:-----------|:-------|:-----------|
 | **Mateus** | 🧑‍💼 Gestor do Projeto *(Líder)* | Planejamento, coordenação e supervisão das atividades relacionadas às investigações forenses digitais, assegurando a execução eficiente, ética e em conformidade com os requisitos legais, técnicos e metodológicos. |
-| **Kelly** | 🔍 Perita de Aquisição e Preservação | — |
-| **Kelly** | 🧪 Perita de Análise Forense | — |
+| **Kelly** | 🔍 Perita de Aquisição e Preservação | O Perito de Aquisição e Preservação é responsável por coletar provas digitais de forma segura, garantindo que os dados não sofram alterações e mantendo a integridade técnica e a validade jurídica da evidência, documentando cada passo desde a coleta até a entrega das evidências adquiridas considerando a cadeia de custódia.	 |
+| **Kelly** | 🧪 Perita de Análise Forense | O Perito de Análise Forense é responsável por analisar as provas adquiridas a partir de técnicas avançadas, identificando arquivos , registros, metadados e possíveis vestígios, também verifica evidências que possam ter sido deletadas ou fragmentadas para conectá-las ao caso investigado. |
 | **Augusto** | 💻 Analista de Sistemas e Ferramentas | Administra, configura e avalia os sistemas e ferramentas tecnológicas utilizadas nas atividades de perícia computacional, garantindo segurança e eficiência na coleta, preservação e análise das evidências digitais. |
 | **Anna** | 📄 Analista de Documentação e Relatório | Registra e organiza todas as atividades realizadas durante a perícia computacional, elaborando e consolidando o relatório técnico final. |
 

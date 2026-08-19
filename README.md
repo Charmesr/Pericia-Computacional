@@ -28,19 +28,27 @@ Durante o desenvolvimento do projeto, serão abordadas as principais etapas do t
 
 Dessa forma, o projeto busca evidenciar como a correta manipulação, preservação e documentação dos vestígios digitais são fundamentais para garantir a confiabilidade das evidências, preservar sua integridade e contribuir para a identificação da materialidade do crime e, quando possível, de seus responsáveis.
 
+---
+
 🎯 Missão
 
 Investigar o ambiente digital com precisão, preservando evidências e transformando dados em informações confiáveis para esclarecer fatos e apoiar a tomada de decisões.
 
+---
+
 🔭 Visão
 
 Ser reconhecida pela qualidade, confiabilidade e organização de suas investigações digitais, tornando-se referência em perícia computacional e análise de evidências digitais.
+
+---
 
 🐝 Princípios da WorkerTI
 
 Assim como uma abelha operária realiza seu trabalho de forma sistemática para contribuir com toda a colmeia, a WorkerTI acredita que uma investigação eficiente depende da coleta cuidadosa de cada evidência, da análise de cada detalhe e da organização de todas as informações.
 
 O lema "Be Productive!" representa essa filosofia. Além de significar "seja produtivo", faz uma alusão a "Bee Productive", conectando produtividade, trabalho e investigação ao conceito da abelha operária.
+
+---
 
 🎯 Objetivos
 Objetivo Geral
@@ -54,11 +62,16 @@ Desenvolver e aplicar procedimentos técnicos para a identificação, coleta e p
 Realizar análises forenses em computadores, dispositivos móveis, mídias de armazenamento, sistemas e redes, utilizando técnicas e ferramentas adequadas.
 Analisar registros de sistemas, arquivos, metadados, logs e demais fontes de evidências digitais, identificando padrões, comportamentos suspeitos e possíveis indícios de incidentes.
 Documentar de forma detalhada todas as etapas realizadas durante o processo pericial, garantindo a rastreabilidade das evidências e a transparência dos procedimentos adotados.
+
+---
+
 💡 Justificativa
 
 Com o avanço tecnológico e a crescente utilização de equipamentos eletrônicos e redes de comunicação para atividades pessoais e profissionais, também aumentaram os crimes e as violações praticadas no ambiente virtual. Nesse cenário, justifica-se a realização deste projeto pela necessidade de compreender e aplicar corretamente os procedimentos da perícia computacional, uma vez que a coleta ou a manipulação inadequada dos vestígios digitais pode comprometer sua integridade e prejudicar toda a investigação.
 
 Portanto, a análise prática de uma máquina infectada permitirá identificar possíveis evidências, compreender as ações realizadas pelo invasor e documentar os acontecimentos de maneira técnica e confiável. Desse modo, o projeto possui relevância acadêmica e profissional por aproximar os conhecimentos teóricos de uma situação prática, além de apresentar importância social, pois a perícia digital contribui para esclarecer crimes tecnológicos, comprovar sua materialidade e, quando possível, auxiliar na identificação e responsabilização dos envolvidos.
+
+---
 
 🧭 Metodologia
 
@@ -71,6 +84,9 @@ Etapa	Descrição
 4️⃣ Análise Forense	Investigação dos dados coletados em busca de informações relevantes para o caso.
 5️⃣ Documentação	Registro detalhado dos procedimentos realizados, resultados obtidos e evidências encontradas.
 6️⃣ Elaboração do Relatório	Organização das informações e apresentação das conclusões da investigação.
+
+---
+
 🔗 Cadeia de Custódia de Evidências Digitais
 
 A cadeia de custódia é composta por cinco documentos principais, elaborados para assegurar a rastreabilidade, integridade, autenticidade e controle das evidências digitais em todas as fases do processo pericial.

@@ -8,8 +8,6 @@
 
 <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/26bb0877-4588-4679-9bb1-74805fce491f" />
 
-
-  
 *"Bee Productive!"*
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
@@ -143,13 +141,15 @@ A documentação é a etapa final do processo proposto por **Franco (2012)** (ac
 <summary><b>2.7 Gestão das Atividades Periciais</b></summary>
 <br>
 
-</details> <details> <summary><b>2.8 A Perícia Computacional Aplicada à Atuação da WorkerTI</b></summary> <br>
-
-A fundamentação teórica se reflete diretamente na estrutura da WorkerTI: a cadeia de custódia discutida por França (2024) e prevista nos arts. 158-A/158-B do CPP é materializada nos cinco documentos adotados pela empresa; a ordem de volatilidade de Cansian (2001) justifica a função de Aquisição e Preservação; e a adequação de ferramentas apontada por Franco (2012) fundamenta o papel do Analista de Sistemas. A necessidade de planejamento e responsabilidades, reforçada por Cansian (2001) e pelo NIST SP 800-86, justifica a função de Gestor do Projeto, evidenciando a coerência entre a teoria e o modelo de atuação da empresa.
+**Cansian (2001)** ressalta a importância de preparar ferramentas, políticas e procedimentos antes da ocorrência de um incidente, definindo responsabilidades e prioridades de ação. O **NIST SP 800-86** recomenda uma abordagem estruturada de identificação, aquisição, análise e comunicação de resultados. Em ambientes virtualizados, **Franco (2012)** aponta desafios adicionais, como a coleta em meio a recursos compartilhados. A sincronização temporal dos sistemas também é citada por Cansian como prática essencial para correlacionar registros de diferentes fontes.
 
 </details>
 
-**Cansian (2001)** ressalta a importância de preparar ferramentas, políticas e procedimentos antes da ocorrência de um incidente, definindo responsabilidades e prioridades de ação. O **NIST SP 800-86** recomenda uma abordagem estruturada de identificação, aquisição, análise e comunicação de resultados. Em ambientes virtualizados, **Franco (2012)** aponta desafios adicionais, como a coleta em meio a recursos compartilhados. A sincronização temporal dos sistemas também é citada por Cansian como prática essencial para correlacionar registros de diferentes fontes.
+<details>
+<summary><b>2.8 A Perícia Computacional Aplicada à Atuação da WorkerTI</b></summary>
+<br>
+
+A fundamentação teórica se reflete diretamente na estrutura da WorkerTI: a cadeia de custódia discutida por **França (2024)** e prevista nos arts. 158-A/158-B do CPP é materializada nos cinco documentos adotados pela empresa; a ordem de volatilidade de **Cansian (2001)** justifica a função de Aquisição e Preservação; e a adequação de ferramentas apontada por **Franco (2012)** fundamenta o papel do Analista de Sistemas. A necessidade de planejamento e responsabilidades, reforçada por **Cansian (2001)** e pelo **NIST SP 800-86**, justifica a função de Gestor do Projeto, evidenciando a coerência entre a teoria e o modelo de atuação da empresa.
 
 </details>
 
@@ -290,75 +290,34 @@ Recebimento da evidência → Registro da custódia → Aquisição forense → 
 
 ---
 
-🗓️ Cronograma
-<details> <summary><b>12/08/2026</b></summary> <br>
-Criar o grupo
-Definir funções dos integrantes
-Definir slogan e logo da equipe
-</details> <details> <summary><b>19/08/2026</b></summary> <br>
-Elaborar a justificativa
-Definir o objetivo geral
-Definir o cronograma
-Especificar as funções dos integrantes do grupo
-Elaborar a definição da cadeia de custódia
-</details> <details> <summary><b>26/08/2026</b></summary> <br>
-Definir os objetivos específicos
-Desenvolver a metodologia
-Organizar referências bibliográficas
-Entrega do cronograma
-</details> <details> <summary><b>02/09/2026</b></summary> <br>
-Pesquisar aspectos legais e éticos relacionados à perícia digital
-Definir as etapas do processo pericial (estrutura geral)
-Definir resultados esperados
-</details> <details> <summary><b>09/09/2026</b></summary> <br>
-Verificar as etapas do desenvolvimento do trabalho
-Elaborar a conclusão
-</details> <details> <summary><b>16/09/2026</b></summary> <br>
-Revisar o trabalho teórico
-Formatar o documento
-Preparar a documentação para a etapa prática da perícia
-</details> <details> <summary><b>23/09/2026 — Recebimento da evidência</b></summary> <br>
-Definir e documentar o procedimento de recebimento da evidência digital
-Identificar a evidência, sua origem, responsável pela entrega e responsável pelo recebimento
-Registrar data, horário, condições e integridade inicial da evidência
-</details> <details> <summary><b>30/09/2026 — Registro da cadeia de custódia</b></summary> <br>
-Criar o formulário/registro de cadeia de custódia
-Documentar cada transferência de responsabilidade pela evidência
-Registrar responsáveis, datas, horários, finalidade e localização da evidência
-</details> <details> <summary><b>07/10/2026 — Registro da cadeia de custódia (continuação)</b></summary> <br>
-Revisar o histórico de movimentação da evidência
-Padronizar os registros de entrada, armazenamento, acesso e transferência
-Verificar se a documentação permite rastrear toda a cadeia de custódia
-</details> <details> <summary><b>14/10/2026 — Relatório de aquisição forense</b></summary> <br>
-Definir o procedimento de aquisição da evidência digital
-Registrar ferramenta, responsável, data e condições da aquisição
-Documentar a preservação da evidência original e a geração da cópia/imagem forense
-</details> <details> <summary><b>21/10/2026 — Relatório de aquisição forense (continuação)</b></summary> <br>
-Documentar a verificação de integridade da aquisição
-Registrar os valores de hash e demais informações técnicas pertinentes
-Organizar os arquivos e evidências produzidos durante a aquisição
-</details> <details> <summary><b>28/10/2026 — Diário de análise pericial</b></summary> <br>
-Definir os procedimentos e objetivos da análise
-Identificar os dados relevantes para a investigação
-Registrar ferramentas, técnicas e procedimentos utilizados
-</details> <details> <summary><b>04/11/2026 — Diário de análise pericial (continuação)</b></summary> <br>
-Executar e documentar a análise dos dados coletados
-Organizar evidências e achados relevantes
-Relacionar os resultados obtidos aos objetivos da perícia
-</details> <details> <summary><b>11/11/2026 — Diário de análise pericial (finalização)</b></summary> <br>
-Revisar os resultados da análise
-Conferir a rastreabilidade dos achados até a evidência correspondente
-Verificar os resultados técnicos para elaboração do relatório
-</details> <details> <summary><b>18/11/2026 — Relatório pericial final</b></summary> <br>
-Elaborar o relatório pericial
-Apresentar metodologia, cadeia de custódia, aquisição, análise e resultados
-Revisar linguagem, organização, evidências e referências
-</details> <details> <summary><b>25/11/2026 — Entrega final</b></summary> <br>
-Revisar e formatar a versão definitiva do documento
-Conferir toda a documentação da cadeia de custódia
-Conferir a sequência: Recebimento da evidência → Registro da custódia → Aquisição forense → Análise pericial → Relatório final
-Entrega final do projeto
-</details>
+## 🗓️ Cronograma
+
+| Data | Fase | Atividades |
+|:----:|:-----|:-----------|
+| 12/08 | Formação da equipe | Criação do grupo · definição de funções, slogan e logo |
+| 19/08 | Planejamento | Justificativa · objetivo geral · cronograma · funções · definição da cadeia de custódia |
+| 26/08 | Fundamentação | Objetivos específicos · metodologia · referências bibliográficas · entrega do cronograma |
+| 02/09 | Fundamentação | Aspectos legais e éticos · estrutura geral do processo pericial · resultados esperados |
+| 09/09 | Revisão | Verificação das etapas desenvolvidas · elaboração da conclusão |
+| 16/09 | Revisão | Revisão do trabalho teórico · formatação · preparação para a etapa prática |
+| 23/09 | 📥 Recebimento da evidência | Procedimento, origem, responsáveis, data/hora e condições iniciais |
+| 30/09 | 🔗 Registro da custódia | Criação do formulário · registro de transferências de responsabilidade |
+| 07/10 | 🔗 Registro da custódia | Revisão do histórico · padronização dos registros · checagem de rastreabilidade |
+| 14/10 | 💾 Aquisição forense | Procedimento de aquisição · ferramenta, responsável, data e condições |
+| 21/10 | 💾 Aquisição forense | Verificação de integridade · valores de hash · organização dos arquivos |
+| 28/10 | 🔍 Análise pericial | Procedimentos, objetivos e dados relevantes · ferramentas e técnicas |
+| 04/11 | 🔍 Análise pericial | Execução e documentação da análise · organização dos achados |
+| 11/11 | 🔍 Análise pericial | Revisão dos resultados · rastreabilidade · checagem técnica final |
+| 18/11 | 📑 Relatório final | Elaboração do relatório · metodologia, custódia, aquisição, análise e resultados |
+| 25/11 | ✅ Entrega final | Revisão e formatação final · conferência da documentação · **entrega do projeto** |
+
+---
+
+## 🔗 Repositório
+
+📎 [github.com/Charmesr/Pericia-Computacional](https://github.com/Charmesr/Pericia-Computacional)
+
+---
 
 <div align="center">
 

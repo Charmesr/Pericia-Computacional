@@ -143,6 +143,12 @@ A documentação é a etapa final do processo proposto por **Franco (2012)** (ac
 <summary><b>2.7 Gestão das Atividades Periciais</b></summary>
 <br>
 
+</details> <details> <summary><b>2.8 A Perícia Computacional Aplicada à Atuação da WorkerTI</b></summary> <br>
+
+A fundamentação teórica se reflete diretamente na estrutura da WorkerTI: a cadeia de custódia discutida por França (2024) e prevista nos arts. 158-A/158-B do CPP é materializada nos cinco documentos adotados pela empresa; a ordem de volatilidade de Cansian (2001) justifica a função de Aquisição e Preservação; e a adequação de ferramentas apontada por Franco (2012) fundamenta o papel do Analista de Sistemas. A necessidade de planejamento e responsabilidades, reforçada por Cansian (2001) e pelo NIST SP 800-86, justifica a função de Gestor do Projeto, evidenciando a coerência entre a teoria e o modelo de atuação da empresa.
+
+</details>
+
 **Cansian (2001)** ressalta a importância de preparar ferramentas, políticas e procedimentos antes da ocorrência de um incidente, definindo responsabilidades e prioridades de ação. O **NIST SP 800-86** recomenda uma abordagem estruturada de identificação, aquisição, análise e comunicação de resultados. Em ambientes virtualizados, **Franco (2012)** aponta desafios adicionais, como a coleta em meio a recursos compartilhados. A sincronização temporal dos sistemas também é citada por Cansian como prática essencial para correlacionar registros de diferentes fontes.
 
 </details>

@@ -307,12 +307,6 @@ Recebimento da evidência → Registro da custódia → Aquisição forense → 
 
 ---
 
-## 🔗 Repositório
-
-📎 [github.com/Charmesr/Pericia-Computacional](https://github.com/Charmesr/Pericia-Computacional)
-
----
-
 <div align="center">
 
 ### 🚀 WorkerTI

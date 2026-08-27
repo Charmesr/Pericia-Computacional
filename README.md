@@ -297,7 +297,7 @@ Recebimento da evidência → Registro da custódia → Aquisição forense → 
 | 12/08 | Formação da equipe | Criação do grupo · definição de funções, slogan e logo |
 | 19/08 | Planejamento | Justificativa · objetivo geral · cronograma · funções · definição da cadeia de custódia |
 | 26/08 | Fundamentação | Objetivos específicos · metodologia · referências bibliográficas · entrega do cronograma |
-| 02/09 | Fundamentação | Aspectos legais e éticos · estrutura geral do processo pericial · resultados esperados |
+| 02/09 | Planejamento | Explorar a máquina virtual |
 | 09/09 | Revisão | Verificação das etapas desenvolvidas · elaboração da conclusão |
 | 16/09 | Revisão | Revisão do trabalho teórico · formatação · preparação para a etapa prática |
 | 23/09 | 📥 Recebimento da evidência | Procedimento, origem, responsáveis, data/hora e condições iniciais |
